@@ -1,0 +1,29 @@
+{
+  "name": "heroku-playground",
+  "version": "0.0.1",
+  "description": "A sample Node.js app using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "express": "^4.13.4",
+    "feedparser": "^1.1.4",
+    "progress-stream": "^1.2.0",
+    "request": "^2.67.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pafmon/contactlist"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
